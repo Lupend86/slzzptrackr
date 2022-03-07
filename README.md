@@ -2,9 +2,7 @@
 
 Sleep Tracker is a mobile-friendly web application that enables you to track your sleep schedule at the push of a button (well, one tap to sleep and one to wake up). You can also see your sleep trends and "sleep debt". `yarn dev` to run the frontend and backend locally.
 
-We use the Google "Firebase" authentication system so that you can link your account to your email address and access your data securely from any device.
-
-An advanced version of Sleep Tracker updated by my incredible partner @esfinkel is currently deployed at https://sleeptracker-7640d.firebaseapp.com.
+The Google "Firebase" authentication system is used so that you can link your account to your email address and access your data securely from any device.
 
 Sleep Tracker is intended to supplant the mobile apps that I've used, which want to record your snores and offer "expert" recommendations yet lack basic recordkeeping features such as the addition of retroactive data.
 
